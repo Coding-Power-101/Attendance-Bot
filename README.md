@@ -19,11 +19,12 @@ The Attendance Bot is a Discord bot that allows for an easy and quick way to tak
 
 ### Clone the Repository
 Run the following command to clone the repository and navigate into the directory:
-
+git clone https://github.com/your-username/attendance-bot.git 
+cd attendance-bot
 
 ### Install Dependencies
 Install the necessary Python packages by running:
-
+pip install -r requirements.txt
 
 ### Set Up Environment Variables
 Create a `.env` file in the project root directory. Add your Discord bot token and Google Sheets spreadsheet ID in the following format:
