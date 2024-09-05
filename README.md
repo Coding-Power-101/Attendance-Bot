@@ -1,4 +1,5 @@
 Attendance Bot
+
 The Attendance Bot is a Discord bot that allows for an easy and quick way to take attendance in meetings by tracking who was present in a specific voice channel. The bot records attendance in a Google Sheet using the Google Sheets API.
 
 Features
