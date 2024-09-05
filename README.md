@@ -19,7 +19,9 @@ The Attendance Bot is a Discord bot that allows for an easy and quick way to tak
 
 ### Clone the Repository
 Run the following command to clone the repository and navigate into the directory:
+
 git clone https://github.com/your-username/attendance-bot.git 
+
 cd attendance-bot
 
 ### Install Dependencies
