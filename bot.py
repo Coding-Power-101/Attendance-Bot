@@ -100,7 +100,7 @@ async def mark_attendance(ctx):
             if cell_value is None or cell_value == "":
                 row_index = i
                 break
-            elif cell_value == member_name:
+            elif cell_value.lower() == str(member_name).lower():
                 row_index = i
                 break
 
